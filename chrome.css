@@ -1,0 +1,6 @@
+@-moz-document url(chrome://browser/content/browser.xhtml) {
+    #urlbar *|input::placeholder {
+      color: transparent !important;
+      opacity: 0 !important;
+    }
+  }  
